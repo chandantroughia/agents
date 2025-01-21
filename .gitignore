@@ -1,0 +1,45 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Environment files #
+######################
+.venv
+.env
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories #
+##########################
+node_modules/
+vendor/
+
+# Compiled source #
+###################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Build directories #
+#####################
+build/
+dist/
+
+# IDE-specific files #
+######################
+.vscode/
+.idea/
+
+# Python specific files #
+#########################
+__pycache__/
+*.py[cod]
+*.egg-info/
+config.py
